@@ -1,8 +1,5 @@
-var OurArray = [];
-var Num = 0
-while (Num<5){
-OurArray.push(Num);
-Num++;
-}
+let urray = [];
 
-console.log(OurArray);
+for (let i = 0; i < 10; i ++ )
+urray.push(i);
+console.log(urray);
